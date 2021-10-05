@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+
+.header{
+    height: 2.5rem;
+    background: grey;
+    width: 100%;
+}
+.subheader{
+    height: 2rem;
+    background: rgb(59, 59, 59);
+    width: 100%;
+}
+
+.sidebar{
+    height: 100%;
+    width: 2rem;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: darkslategray;
+}
